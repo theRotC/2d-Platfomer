@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -41,12 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2769841135
+    locked: 0
   - name: gorund
     uniqueID: 4235247825
     locked: 0
+  - name: enemy
+    uniqueID: 714599235
+    locked: 0
   - name: Player
     uniqueID: 1386965357
-    locked: 0
-  - name: 
-    uniqueID: 714599235
     locked: 0
